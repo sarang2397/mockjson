@@ -1,0 +1,70 @@
+{
+   "posts": [
+  {
+      "Qno":1,
+      "question":"Are you a good listner?"
+
+  },
+
+  {
+      "Qno":2,
+      "question":"How often do you manage to meet your deadlines at work?"
+
+  },
+
+  {
+      "Qno":3,
+      "question":"i understand why people are being difficult to me"
+
+  },
+
+  {
+      "Qno":4,
+      "question":"I make friends easily?"
+
+  },
+
+  {
+      "Qno":5,
+      "question":"I worry about things?"
+
+  },
+
+  {
+      "Qno":6,
+      "question":"I get angry easily?"
+
+  },
+
+  {
+      "Qno":7,
+      "question":"I experience my emotions intensely?"
+
+  },
+
+  {
+      "Qno":8,
+      "question":"I often feel blue?"
+
+  },
+
+  {
+      "Qno":9,
+      "question":"I prefer variety to routine?"
+
+  },
+
+  {
+      "Qno":10,
+      "question":"I like to solve complex problems?"
+
+  },
+
+  {
+      "Qno":11,
+      "question":"Are you a good developer?"
+
+  }
+]
+
+}
